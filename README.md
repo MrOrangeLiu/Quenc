@@ -45,7 +45,7 @@ A new Flutter project.
 |<ul><li>- [x] </li></ul>|匿名Po文|Must Have|可在不顯示學校的情況下Po文| Richard| 16 Dec 2019 |
 |<ul><li>- [x] </li></ul>|加註釋|Must Have|給所有Widgets和functions加上註釋| Richard| 16 Dec 2019|
 |<ul><li>- [ ] </li></ul>|交友|Must Have|平台提供交友配對功能| 請認領 | |
-|<ul><li>- [ ] </li></ul>|聊天|Must Have|平台提供文字聊天功能| Liu | |
+|<ul><li>- [x] </li></ul>|聊天|Must Have|平台提供文字聊天功能| Liu | 02 Jan 2020 |
 |<ul><li>- [ ] </li></ul>|搜尋|Must Have|平台提供搜尋文章的功能| Fei | |
 
 
